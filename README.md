@@ -24,10 +24,10 @@ print the characters and its huffmancode.
 ## Program:
 
 ``` Python
-#NAME : Bharath Raj P
-#REG :  212223230031
+#NAME : Navinkumar V
+#REG :  212223230141
 
-input_string = "Bharath Raj P" 
+input_string = "Navinkumar V" 
 
 frequency = {}
 for char in input_string:
